@@ -1,0 +1,15 @@
+.join-container{
+    background-color: #ffffff;
+    border: 2px solid rgba(255, 255, 255, .2);
+    color: #1976D2;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14px 14px 14px 14px;
+  
+    -webkit-box-shadow: 3px 5px 5px 0px rgba(0,0,0,0.56);
+      box-shadow:  3px 5px 5px 0px rgba(0,0,0,0.56);
+  }
